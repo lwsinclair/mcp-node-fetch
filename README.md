@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcollina-mcp-node-fetch-badge.png)](https://mseep.ai/app/mcollina-mcp-node-fetch)
+
 # MCP Node Fetch
 
 An MCP server that enables fetching web content using the Node.js [undici](https://github.com/nodejs/undici) library.
